@@ -21,10 +21,10 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web de Madrid 
 ## 📊 Mis Estadísticas en GitHub
 Aquí te muestro una gráfica con mis estadísticas como desarrollador:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiancarloCiulla&show_icons=true&theme=radical)
 
 ### 📂 Lenguajes más utilizados:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarloCiulla&layout=compact)
 
 ---
 
