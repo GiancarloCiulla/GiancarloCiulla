@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy un Desarrollador Web de Madrid
 
-<!--
-**GiancarloCiulla/GiancarloCiulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web de Madrid con experiencia en crear soluciones dinámicas, funcionales y atractivas. Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 💻 **Habilidades:** HTML, CSS, JavaScript, React, Node.js, y más.
+- 🎯 **Objetivo:** Crear aplicaciones que mejoren la experiencia del usuario y resuelvan problemas reales.
+- 🌱 **Aprendiendo actualmente:** TypeScript y desarrollo de APIs avanzadas.
+- 📍 **Ubicación:** Madrid, España.
+
+---
+
+## 🌐 Encuéntrame en:
+- [LinkedIn](https://www.linkedin.com/in/giancarlo-ciulla/)   
+- [Portfolio Personal](Proximamente)  
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+Aquí te muestro una gráfica con mis estadísticas como desarrollador:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+### 📂 Lenguajes más utilizados:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+
+---
+
+### Gracias por visitar mi perfil 💻✨  
+¡Si quieres colaborar en algún proyecto, no dudes en contactarme!
+
